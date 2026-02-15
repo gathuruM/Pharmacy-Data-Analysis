@@ -1,8 +1,6 @@
 # Pharmacy-Data-Analysis
 Healthcare Pharmacy &amp; Patient Analytics
 
---# Healthcare Pharmacy & Patient Analytics
-
 ## Project Goal
 To analyze pharmacy revenue drivers and patient trends across Kenya
 
